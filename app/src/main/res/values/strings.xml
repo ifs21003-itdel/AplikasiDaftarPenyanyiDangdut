@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">List Pedangdut Asekk!!</string>
+
+    <string name="heroes_name">Nama Pedangdut</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Ayu Ting Ting</item>
+        <item>Cici Pramida</item>
+        <item>Cita Citata</item>
+        <item>Dewi Persik</item>
+        <item>Iis Dahlia</item>
+        <item>Ikke Nurjanah</item>
+        <item>Inul Daratista</item>
+        <item>Jenita Janet</item>
+        <item>Saiful Jamil</item>
+        <item>Zaskia Gotix</item>
+        <item>Siti Badriah</item>
+    </string-array>
+
+    <string-array name="data_description_preview">
+        <item>Ayu Ting Ting adalah penyanyi dan aktris berkebangsaan Indonesia yang terkenal di Indonesia. Ayu dikenal sebagai "Princess of Dangdut" karena dia terkenal di industri musik dangdut Indonesia.</item>
+        <item>Cici Pramida adalah penyanyi berkebangsaan Indonesia yang dikenal dengan julukan "Ratu Disco Indonesia". Ia mendapat julukan tersebut karena ketenarannya di era musik disco pada tahun 1980-an. </item>
+        <item>Cita Citata adalah penyanyi, model, dan aktris berkebangsaan Indonesia yang dikenal sebagai "Dangdut Dance Queen" atau "Queen of Dangdut Dance". Julukan ini muncul dari gaya panggung dan penampilannya yang energik serta kemampuannya menarikan tarian dangdut yang khas.</item>
+        <item>Dewi Persik, yang sering dipanggil Depe, adalah seorang penyanyi dangdut, aktris, dan model berkebangsaan Indonesia. Julukannya yang terkenal adalah "Princess of Goyang Gergaji" atau "Queen of Goyang Gergaji".</item>
+        <item>Iis Dahlia, yang juga dikenal sebagai "Queen of Dangdut", adalah salah satu penyanyi dangdut terkenal dan dihormati di Indonesia. Julukan ini mencerminkan kontribusi Iis Dahlia yang besar terhadap musik dangdut selama bertahun-tahun.</item>
+        <item>Ikke Nurjanah adalah penyanyi berkebangsaan Indonesia yang terkenal di era 1990-an. Dikenal dengan suara yang merdu dan melodinya yang khas, Ikke Nurjanah dikenal sebagai "Ratu Dangdut Indonesia". </item>
+        <item>Inul Daratista, yang juga dikenal sebagai "Queen of Dangdut Koplo", adalah seorang penyanyi dangdut, aktris, dan penari berkebangsaan Indonesia. Julukan ini mencerminkan kontribusi Inul Daratista yang besar terhadap musik dangdut koplo, subgenre dangdut yang populer di Indonesia. </item>
+        <item>Jenita Janet adalah seorang penyanyi dangdut dan presenter televisi berkebangsaan Indonesia yang dikenal dengan julukan "Queen of Remix". Julukan ini mencerminkan kontribusi Jenita Janet yang besar terhadap musik dangdut remix, subgenre dangdut yang makin populer di Indonesia.</item>
+        <item>Saipul Jamil dikenal sebagai "Raja Dangdut" atau "Raja Dangdut Indonesia". Julukan ini mencerminkan kontribusinya yang besar dalam industri musik dangdut Indonesia dan kesuksesannya dalam mempertahankan popularitasnya sebagai salah satu penyanyi dangdut terkemuka di Indonesia.</item>
+        <item>Zaskia Gotik, yang dikenal sebagai "Queen of Dangdut", adalah seorang penyanyi dangdut dan aktris berkebangsaan Indonesia. Julukan ini mencerminkan kontribusi Zaskia Gotik yang besar terhadap industri musik dangdut di Indonesia.</item>
+        <item>Siti Badriah, julukan "Ratu Goyang", adalah penyanyi dangdut terkenal dari Indonesia yang dikenal dengan penampilan energiknya dan sejumlah single hit, termasuk "Lagi Syantik" dan "Kawin Cerai".</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ayu Rosmalina, yang lebih dikenal dengan nama panggung Ayu Ting Ting, lahir pada tanggal 20 Juni 1992 di Depok, Jawa Barat, Indonesia. Dia adalah seorang penyanyi, penulis lagu, dan aktris yang populer di Indonesia. Ayu Ting Ting memulai karirnya di dunia hiburan pada tahun 2007 ketika dia berhasil lolos audisi untuk menjadi vokalis di sebuah band. Namun, setelah beberapa tahun, dia memutuskan untuk fokus pada karir solo dan menjadi penyanyi dangdut. Pada tahun 2011, Ayu Ting Ting merilis album debutnya yang berjudul "Alamat Palsu". Album ini sukses besar dan lagu-lagu di dalamnya, seperti "Alamat Palsu" dan "Sambalado", menjadi hits besar di Indonesia. Selain menjadi penyanyi, Ayu Ting Ting juga aktif sebagai aktris. Dia telah membintangi beberapa film dan sinetron, seperti "Pintu Berkah" dan "Cinta yang Tertukar". Ayu Ting Ting dikenal karena suaranya yang merdu, penampilannya yang memikat, dan kemampuannya dalam menarikan tarian dangdut yang energik. Dia sering dipanggil "Ratu Dangdut Indonesia" oleh penggemarnya karena kontribusinya yang besar terhadap genre musik dangdut di Indonesia. Ayu Ting Ting terus berkarya dan menjadi salah satu penyanyi dangdut terkemuka di Indonesia hingga saat ini.</item>
+        <item>Cici Pramida, yang nama aslinya adalah Cicih Ratnasari, adalah seorang penyanyi dangdut terkenal di Indonesia. Dia lahir pada 1 Januari 1976 di Tangerang, Banten, Indonesia. Julukan yang sering diberikan kepada Cici Pramida adalah "Ratu Disco Dangdut" atau "Ratu Disco Indonesia". Ini mencerminkan popularitasnya pada era 1990-an di mana genre dangdut dan disco sangat populer di Indonesia. Cici Pramida dikenal karena kemampuannya menarikan tarian dangdut yang energik dan musiknya yang menggabungkan unsur-unsur dangdut tradisional dengan musik disco modern. Dia adalah salah satu penyanyi dangdut paling sukses pada masanya, dengan banyak hits seperti "Goyang Dangdut" dan "Joged Kahyangan". Cici Pramida terus menjadi ikon dan mendukung industri musik dangdut di Indonesia.</item>
+        <item>Cita Citata, nama asli Cita Rahayu, adalah seorang penyanyi dan aktris berkebangsaan Indonesia. Dia lahir pada tanggal 14 Agustus 1994 di Bandung, Jawa Barat, Indonesia. Cita Citata dikenal sebagai "Princess of Dangdut" karena keberhasilannya dalam membawa genre dangdut ke arus utama musik Indonesia. Julukan ini mencerminkan kontribusinya yang besar terhadap popularitas dangdut, terutama melalui lagu-lagu hitsnya seperti "Sakitnya Tuh Disini" dan "Perawan Atau Janda". Selain itu, Cita Citata juga dikenal sebagai "Queen of Sambalado" karena kemampuannya dalam menciptakan dan menyanyikan lagu-lagu yang diikuti oleh lagu Sambalado yang sukses besar di Indonesia. Cita Citata terus menghibur publik dengan musik dangdutnya yang energetik dan penampilannya yang memikat, menjadikannya salah satu penyanyi dangdut terkemuka di Indonesia.</item>
+        <item>Dewi Persik, yang nama asli Dewi Murya Agung, adalah seorang penyanyi, aktris, dan presenter televisi berkebangsaan Indonesia. Dia lahir pada tanggal 16 Desember 1985 di Jember, Jawa Timur, Indonesia. Dewi Persik dikenal dengan julukan "Princess of Goyang Gergaji" atau "Queen of Goyang Gergaji" karena tarian dangdutnya yang energetik dan bersemangat yang sering kali melibatkan gerakan tubuh yang mengingatkan pada gerakan gergaji. Julukan ini mencerminkan kontribusinya yang besar terhadap musik dangdut, terutama dalam membawa genre dangdut ke arus utama musik Indonesia. Selain itu, Dewi Persik juga dikenal sebagai "Ratu Dangdut" karena ketenarannya sebagai salah satu penyanyi dangdut terkemuka di Indonesia. Dewi Persik terus mengeksplorasi dan mengembangkan bakatnya dalam dunia hiburan, menjadikannya salah satu ikon musik dangdut di Indonesia</item>
+        <item>Iis Dahlia, yang nama asli Dhalia Husein, adalah seorang penyanyi dangdut dan aktris Indonesia yang lahir pada 29 Desember 1970 di Bandung, Jawa Barat. Ia dikenal sebagai "Ratu Dangdut" karena popularitas dan kontribusinya yang besar terhadap industri musik dangdut di Indonesia. Iis Dahlia telah aktif di dunia hiburan sejak tahun 1988 dan telah merilis beberapa album yang sukses. Lagu-lagunya yang terkenal antara lain "Payung Hitam", "Seruling Asmara", dan "Bunga Dahlia". Selain itu, Iis Dahlia juga sering tampil di layar kaca sebagai presenter televisi dan aktor di beberapa film dan sinetron. Sepanjang kariernya, Iis Dahlia terus mendukung dan mengembangkan musik dangdut di Indonesia, menjadikannya salah satu tokoh utama dalam genre musik tersebut.</item>
+        <item>Ikke Nurjanah, lahir pada 23 November 1972 di Jakarta, Indonesia, adalah seorang penyanyi dangdut dan aktris yang memiliki karier yang panjang di industri hiburan Indonesia. Julukan yang sering diberikan kepada Ikke Nurjanah adalah "Queen of Dangdut" atau "Ratu Dangdut". Ini mencerminkan popularitas dan kontribusinya yang besar terhadap genre musik dangdut di Indonesia. Ikke Nurjanah terkenal karena suaranya yang merdu dan kemampuan menarinya yang memukau, serta lagu-lagu hitsnya seperti "Dingin" dan "Terhanyut Dalam Kemesraan". Selain menjadi penyanyi, Ikke Nurjanah juga aktif sebagai aktris di beberapa film dan sinetron, seperti "Dewi Malam" dan "Cinta di Saku Celana". Ikke Nurjanah terus berkarya dan menjadi salah satu penyanyi dangdut terkemuka di Indonesia, mendapat pengakuan dari industri hiburan Indonesia dan penggemar dangdut di seluruh negeri.</item>
+        <item>Inul Daratista, yang nama aslinya adalah Ainul Rokhman, lahir pada tanggal 21 April 1979 di Pasuruan, Jawa Timur, Indonesia, adalah seorang penyanyi dangdut dan pencipta lagu yang dikenal dengan julukan "Ratu Goyang Ngebor" atau "Queen of Goyang Ngebor". Julukan ini mencerminkan gaya tarian uniknya yang energik dan dinamis, yang memicu tren gerakan tari baru dalam musik dangdut di Indonesia. Inul Daratista dikenal karena kemampuannya membawa genre dangdut ke arus utama musik Indonesia dan popularitasnya dalam membawakan lagu-lagu dangdut yang bersemangat. Lagu-lagu hitsnya antara lain "Goyang Inul", "Arjuna Buaya", dan "Sik Asik". Selain menjadi penyanyi, Inul Daratista juga aktif sebagai aktris dalam beberapa film dan sinetron, seperti "Sang Pemimpi" dan "Dewi Persik Sang Dangdut". Inul Daratista terus berkarya dan menjadi salah satu ikon musik dangdut di Indonesia, memperkenalkan gaya tarian yang unik dan inovatif kepada penggemar dangdut di seluruh negeri.</item>
+        <item>Jenita Janet, nama lahir Siti Jenar, lahir pada tanggal 13 Juni 1985 di Tasikmalaya, Jawa Barat, Indonesia. Ia adalah seorang penyanyi dangdut dan aktris berkebangsaan Indonesia. Julukan yang sering diberikan kepada Jenita Janet adalah "Queen of Remix" atau "Ratu Remix". Ini mencerminkan popularitas dan kontribusinya yang besar terhadap genre musik dangdut remix di Indonesia. Jenita Janet dikenal karena kemampuannya menelurkan hits-hits remix yang diterima baik oleh penikmat dangdut di Indonesia. Lagu-lagu hitsnya antara lain "Di Reject", "Gue Juga Bisa", dan "Malam Bangkit". Selain menjadi penyanyi, Jenita Janet juga aktif sebagai aktris di beberapa film dan sinetron, seperti "Ular Tangga" dan "Jodohku". Jenita Janet terus berkarya dan menjadi salah satu penyanyi dangdut terkemuka di Indonesia, menempatkannya sebagai salah satu ikon musik dangdut di Indonesia yang sangat berpengaruh di industri musik dangdut di Indonesia.</item>
+        <item>Saipul Jamil atau yang dikenal dengan nama panggung Saipul Jamil adalah seorang penyanyi dangdut dan presenter berkebangsaan Indonesia. Lahir di Ciamis, Jawa Barat, pada 15 April 1981, Saipul Jamil dikenal sebagai "Raja Dangdut" atau "King of Dangdut" karena popularitas dan kontribusinya yang besar terhadap genre musik dangdut di Indonesia. Julukan ini mencerminkan popularitas dan kontribusinya yang besar terhadap genre musik dangdut di Indonesia. Saipul Jamil adalah salah satu penyanyi dangdut terkemuka di Indonesia dan terus memperjuangkan genre dangdut di Indonesia. Lagu-lagu hitsnya antara lain "Hujan Dan Air Mata", "Sang Penista", dan "Bintang-Bintang Hatiku". Saipul Jamil juga aktif sebagai presenter televisi dan aktor di beberapa film dan sinetron, seperti "Kembalikan lagi Senyumku" dan "Karma". Saipul Jamil terus berkarya dan menjadi salah satu penyanyi dangdut terkemuka di Indonesia, menempatkannya sebagai salah satu ikon musik dangdut di Indonesia yang sangat berpengaruh di industri musik dangdut di Indonesia.</item>
+        <item>Zaskia Gotik, nama asli Zaskia Mecca Putri Ramlan, lahir pada tanggal 27 September 1990 di Garut, Jawa Barat, Indonesia. Dia adalah seorang penyanyi dangdut dan aktris berkebangsaan Indonesia. Julukan yang sering diberikan kepada Zaskia Gotik adalah "Ratu Dangdut Remix" atau "Queen of Dangdut Remix". Ini mencerminkan popularitas dan kontribusinya yang besar terhadap genre musik dangdut remix di Indonesia. Zaskia Gotik dikenal karena kemampuannya menelurkan hits-hits remix yang diterima baik oleh penikmat dangdut di Indonesia. Lagu-lagu hitsnya antara lain "1000 Alasan", "Bang Jono", dan "Tarik Selimut". Selain menjadi penyanyi, Zaskia Gotik juga aktif sebagai aktris di beberapa film dan sinetron, seperti "Cinta 7 Susun" dan "Jodoh Ganteng Ganteng Serigala". Zaskia Gotik terus berkarya dan menjadi salah satu penyanyi dangdut terkemuka di Indonesia, menempatkannya sebagai salah satu ikon musik dangdut di Indonesia yang sangat berpengaruh di industri musik dangdut di Indonesia.</item>
+        <item>Siti Badriah, lahir pada 11 November 1991 di Sukabumi, Jawa Barat, adalah seorang penyanyi dangdut yang dikenal dengan julukan "Ratu Goyang". Melalui ketekunan dan bakatnya, ia telah meraih kesuksesan gemilang dalam industri musik dengan sejumlah single hit seperti "Lagi Syantik" dan "Kawin Cerai", yang mendominasi tangga lagu dan menciptakan sensasi di kalangan penggemar musik dangdut. Prestasinya tidak hanya tercermin dari popularitasnya yang merajai panggung musik dalam negeri, tetapi juga dari sejumlah penghargaan bergengsi yang telah ia raih, seperti Anugerah Musik Indonesia (AMI Awards) dan Dahsyatnya Awards. Dengan gaya penampilan yang enerjik dan kepiawaiannya sebagai penari, Siti Badriah terus menginspirasi dan menghibur para penggemarnya di seluruh Indonesia, menjadikannya sebagai salah satu ikon terkemuka dalam industri musik dangdut.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ayu_ting_ting</item>
+        <item>@drawable/cici_pramida</item>
+        <item>@drawable/cita_citata</item>
+        <item>@drawable/dewi_persik</item>
+        <item>@drawable/iis_dahlia</item>
+        <item>@drawable/ikke_nurjanah</item>
+        <item>@drawable/inul_daratista</item>
+        <item>@drawable/jenita_janet</item>
+        <item>@drawable/saiful_jamil</item>
+        <item>@drawable/zaskia_gotix</item>
+        <item>@drawable/siti_badriah</item>
+    </integer-array>
+    <string name="title_activity_about_me">about_me</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="textview">TextView</string>
+    <string name="share_now">Share Now!</string>
+    <string name="text">TextView</string>
+    <string name="benhard_yudha">Benhard Yudha</string>
+    <string name="benharudoyuda9090_gmail_com">benharudoyuda9090@gmail.com</string>
+</resources>
